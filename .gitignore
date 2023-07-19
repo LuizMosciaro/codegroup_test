@@ -1,0 +1,57 @@
+# Arquivos gerados pelo Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+.venv3/
+env/
+.venv/
+.venv3/
+.pyenv/
+.conda/
+env.bak/
+env_dir/
+
+# Arquivos de dependências
+*.lock
+pip-log.txt
+
+# Arquivos de logs
+*.log
+
+# Arquivos de cache
+__pycache__/
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/
+
+# Diretório de documentação
+docs/_build/
+
+# Arquivos de configuração locais
+.idea/
+.vscode/
+*.swp
+*~
+.project
+*.pydevproject
+
+# Arquivos temporários
+*.bak
+*.tmp
+*.tmp.*
+*.~*.*
+*.swp
+
+# Outros arquivos
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
