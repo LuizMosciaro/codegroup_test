@@ -14,6 +14,7 @@ Teste realizado para avaliacao de dev python
     EMAIL=<seu_email_e_linkedin>
     EMAIL_PWD=<sua_senha_do_email>
     PASSWORD=<sua_senha_linkedin>
+    RECIPIENT=<email_destinarario>
 6. Execute o projeto.
 
 ## Utilização
